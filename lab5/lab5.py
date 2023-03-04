@@ -8,4 +8,9 @@ __author__ = "Влад Гурбатов"
 # ввод размера массива
 n = int(input("Введите размер массив: "))
 a = source.create_array(n)
-print(f"Результат: {source.array_sum(a,n):.4f}")
+print("Данный массив:")
+source.print_array(a)
+print(f"Результат: {source.sum_array(a):.4f}")
+assert source.sum_array([1,2,3,4,5,6]) == -10.5
+assert source.sum_array([1,2,3,4,5]) == -7.5
+assert source.sum_array([1,2,3,4,4]) == -7

@@ -1,6 +1,6 @@
 #Определить, является ли данное целое число четным.
 #https://ivtipm.github.io/Programming/Glava03/index03.htm#z62
-__autor__ = "Влад Гурбатов"
+__author__ = "Влад Гурбатов"
 
 import source
 

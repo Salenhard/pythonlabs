@@ -1,3 +1,6 @@
+__autor__ = "Влад Гурбатов"
+
+
 def print_massive(a:list, n:int):
     for i in range(0, n):
         print(a[i], " ", end='')

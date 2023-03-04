@@ -1,3 +1,6 @@
+__autor__ = "Влад Гурбатов"
+
+
 def sum_cicle(n:int, m:int):
     s = 0
     for i in range(1, n):
