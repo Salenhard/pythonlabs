@@ -7,7 +7,7 @@ import source
 # Ввод числа
 a = int(input("Введите число для проверки"))
 # проверка числа на чётность
-assert 2 % 2 == 0
+assert 2 % 2 == 0 
 if source.is_even(a):
     print("Чётное")
 e: print("Не чётное")
