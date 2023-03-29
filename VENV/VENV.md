@@ -30,7 +30,9 @@ Python 3.3+ поставляется с модулем venv. Для более �
 ## Пакеты
 Установите один из следующих пакетов:
 
-* Python 3.3+: python <br/>
-* Python 3: python-virtualenv <br/>
+* Python 3.3+: python
+* Python 3: python-virtualenv
+
+
 Для Pipenv:
-* Python 3: python-pipenv <br/>
+* Python 3: python-pipenv
