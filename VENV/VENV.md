@@ -24,3 +24,14 @@
 
 Для выхода из виртуальной среды необходимо выполнить команду: deactivate <br/>
 ![alt text](./images/VENV4.png)
+
+Python 3.3+ поставляется с модулем venv. Для более старых версий Python можно использовать сторонний инструмент virtualenv.
+
+## Пакеты
+Установите один из следующих пакетов:
+
+* Python 3.3+: python
+* Python 3: python-virtualenv
+* Для Pipenv:
+
+Python 3: python-pipenv
