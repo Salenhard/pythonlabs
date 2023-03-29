@@ -32,6 +32,5 @@ Python 3.3+ поставляется с модулем venv. Для более �
 
 * Python 3.3+: python
 * Python 3: python-virtualenv
-* Для Pipenv:
-
-Python 3: python-pipenv
+Для Pipenv:
+* Python 3: python-pipenv
